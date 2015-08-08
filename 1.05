@@ -1,0 +1,19 @@
+
+/**
+ * Write a description of class StudentInfoCard here.
+ * 
+ * @author (Jesica Quinones) 
+ * @version (07/30/2015)
+ * Card that contains the student's information.
+ */
+public class StudentInfoCard
+{
+     public static void main(String[] args)
+       { 
+           System.out.println("Name: Jesica Quiones.                Birthdate: 04/28/1997       Age: 18");
+           System.out.println("School: Mourning Senior High.        Grade: 12th                 City: Miami");
+           System.out.println("Home Phone: 786-324-5546             Cell Phone: 786-312-8906    Available: 8:00am - 10:00 pm");           System.out.println("Current Math: AP Calculus AB");
+           System.out.println("Previous programming experience: HTML/CSS and some Python");
+           System.out.println("Reason for taking the course: Interested in CS as a career"); 
+        }
+}
